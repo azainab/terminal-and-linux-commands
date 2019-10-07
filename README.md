@@ -9,3 +9,7 @@ p stands for print
 sed -i 1d file1.csv
 
 d stands for delete
+
+### display last few lines
+
+ tail -3 alphabetfile
