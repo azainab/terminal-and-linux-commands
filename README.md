@@ -22,3 +22,5 @@ d stands for delete
  
  Access the website at localhost:4040
  
+## copying a file to a server from desktop
+scp local_file user@remote_host:remote_file
